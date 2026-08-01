@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/bubu-dudu-birthday/',
+  base:'/Birthday/',
   server: {
     watch: {
       usePolling: true,
@@ -9,3 +9,4 @@ export default defineConfig({
     },
   },
 });
+
